@@ -1,0 +1,4 @@
+
+1 we have the class name by the name of eye and we applying some styling to it.
+we setting background color of the class to be blue and the width to be 20 percent and with the height of 20 percent as well and
+last we are setting class to border radius of 50 percent

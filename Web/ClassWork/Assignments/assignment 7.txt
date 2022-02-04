@@ -1,0 +1,7 @@
+1)background‐color : element.style.background = "red";
+2)border‐radius: element.style.border-radius = "2px";
+3)font‐family: element.style.font-family = "san serif"
+4)margin: element.style.margin = "20px"
+5)font‐size: element.style.font-size = "";
+6)border‐width: element.style.border-width = "";
+7)text‐align: element.style.text-align = "center"

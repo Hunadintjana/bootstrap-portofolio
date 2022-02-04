@@ -1,0 +1,4 @@
+Consider the following statements, and explain how these two statements work with each other.
+
+var storyDiv = document.getElementById("story");
+storyDiv.innerHTML = "Welcome to Code College!";

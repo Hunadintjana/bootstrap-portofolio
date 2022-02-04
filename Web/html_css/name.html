@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Page Title</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='style.css'>
+    
+</head>
+<body>
+    <br>what is your name?</br>
+    <input type="text" id="user" value="">
+    <p></p>
+    <br>How old are you?</br>
+    <input type="text" id="age" value="">
+    <p id="pr">??</p>
+    <button id="btn" onclick="result()">Submit</button>
+    <script src='api.js'></script>
+
+</body>
+</html>
+
+<script>
+    function result(){
+
+var textbox = document.getElementById("user").value;
+var textbox2 = document.getElementById("age").value;
+var concan = "The name is: "+textbox + "<br>" + "The age is: "+textbox2;
+var textbox4 = document.getElementById("pr");
+
+textbox4.innerHTML = concan;
+}
+
+</script>

@@ -1,0 +1,11 @@
+
+var petName = "sarah";
+var schoolSub = "Business";
+var friend_age = 25;
+var street = "phase 4";
+
+
+1 we use variables to store information
+2 int, string, bool
+3 dialog box, prompt, input types
+4 alert,document.write(), message box

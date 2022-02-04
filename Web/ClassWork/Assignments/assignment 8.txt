@@ -1,0 +1,9 @@
+How would you access the value of eyeColor in the following "person" Object?
+
+var person = {
+firstName:"John",
+lastName:"Doe",
+age:50,
+eyeColor:"blue"};
+
+1 person.eyeColor;

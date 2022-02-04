@@ -1,0 +1,13 @@
+Which function has the correct syntax?
+
+a) addition(){}
+
+b) function multiplication(num1;num2){return num1 * num2}
+
+c) function addition(num1,num2){return num1 + num2}
+
+d) function division(num1,num2)return num1 / num2}
+
+
+
+Addition function is correct

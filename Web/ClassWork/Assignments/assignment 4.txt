@@ -1,0 +1,8 @@
+
+<strong>: to make text bold
+<a>:  its hyperlink tag
+<ul> tag to make list unordered
+<ol> tag to make list in order
+<li> tag for list items
+<img> tag to insert images
+<div> tag used to contain html elements

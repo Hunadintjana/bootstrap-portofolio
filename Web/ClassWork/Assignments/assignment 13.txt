@@ -1,0 +1,7 @@
+Which statement is a correct Event Listener?
+
+a) var printButton = document.getElementById("print");
+printButton.onclick = printView;
+
+b) var addButton = document.getElementById("add");
+addButton.addEventListener("click", addTheThing);

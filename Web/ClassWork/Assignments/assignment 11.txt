@@ -1,0 +1,6 @@
+Explain the difference between the Array method pop() and shift(), push() and unshift().
+
+1 pop = remove the value at the top of the array
+2 shift: remove the value at the end of the array
+3 push: add the value at the end of the array
+4: unshift: add the value at the start of the array

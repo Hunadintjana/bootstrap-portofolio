@@ -1,0 +1,10 @@
+ 1 var name = "Hunadi";
+ 2 count = the proccess of adding items in hoping to get the total
+  spelling = the format of how words are written
+spacing = the space between items
+ 3 Yes because we are using backslash to escape characters
+ 4 Yes
+ 5 Yes
+ 6 single line comment is used to comment a single line while double is used to comment double of lines
+ 7 with break tag <br>
+ 

@@ -1,0 +1,21 @@
+
+
+var insult = ["big head","small nose", "yellow teeth","big foot"];
+
+for(var i = 0; i < insult.length; i++){
+
+var generate = insult[i];
+
+}
+
+var another = ["eyes","ears","head"];
+
+
+var statement = "Your " + another[i] + "is bigger than an " + "elephants's" + another[i];
+
+var firstVertion = "big " + "head"
+var secondVersion =  ["forehead","finger", "yellow teeth","big foot"];
+
+secondVersion.join(" ");
+
+The one which join because with join method we can decide what we put on the quotes, or how we can join them, we can use plus symbol or any character to join
